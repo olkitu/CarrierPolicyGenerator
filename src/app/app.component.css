@@ -1,0 +1,17 @@
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 20px 50px;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.selection-margin {
+    margin: 0 12px;
+}
+
+.selection-style {
+    margin: 12px 0;
+}
